@@ -1,0 +1,560 @@
+/* screen - eliminargrupoweb-1-1 */
+
+.eliminargrupoweb-1-1 {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.eliminargrupoweb-1-1 .overlap-group7 {
+  height: 898px;
+  position: relative;
+  width: 1443px;
+}
+
+.eliminargrupoweb-1-1 .base {
+  background-color: var(--zanah);
+  border: 1px solid;
+  border-color: transparent;
+  height: 860px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 1400px;
+}
+
+.eliminargrupoweb-1-1 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--goblin);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  left: 623px;
+  min-width: 182px;
+  padding: 15px 7px;
+  position: absolute;
+  top: 736px;
+}
+
+.eliminargrupoweb-1-1 .guardar {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.eliminargrupoweb-1-1 .nmero-de-estudiantes {
+  left: 201px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 681px;
+}
+
+.eliminargrupoweb-1-1 .post-thumbnail {
+  background-color: var(--de-york);
+  height: 202px;
+  left: 18px;
+  opacity: 0.7;
+  position: absolute;
+  top: 276px;
+  width: 1402px;
+}
+
+.eliminargrupoweb-1-1 .trazado-240 {
+  height: 17px;
+  left: 205px;
+  position: absolute;
+  top: 258px;
+  width: 127px;
+}
+
+.eliminargrupoweb-1-1 .taller-ii {
+  left: 163px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 380px;
+  width: 279px;
+}
+
+.eliminargrupoweb-1-1 .fecha-de-creacin {
+  left: 163px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 431px;
+  white-space: nowrap;
+}
+
+.eliminargrupoweb-1-1 .overlap-group1 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 76.8px;
+  position: absolute;
+  top: 848px;
+}
+
+.eliminargrupoweb-1-1 .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.eliminargrupoweb-1-1 .input {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  height: 116px;
+  left: 142px;
+  min-width: 658px;
+  position: absolute;
+  top: 527px;
+}
+
+.eliminargrupoweb-1-1 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 116px;
+  width: 327px;
+}
+
+.eliminargrupoweb-1-1 .overlap-group-1 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.6px;
+}
+
+.eliminargrupoweb-1-1 .nombre {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 38px;
+  text-align: right;
+}
+
+.eliminargrupoweb-1-1 .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 12.2px;
+}
+
+.eliminargrupoweb-1-1 .descripcin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: right;
+}
+
+.eliminargrupoweb-1-1 .overlap-group1-1 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 9.5px;
+}
+
+.eliminargrupoweb-1-1 .nmero-de-estudiantes-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 111px;
+  text-align: right;
+}
+
+.eliminargrupoweb-1-1 .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.8px;
+}
+
+.eliminargrupoweb-1-1 .das-a-la-semana {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 80px;
+  text-align: right;
+}
+
+.eliminargrupoweb-1-1 .base-1 {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 275px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.eliminargrupoweb-1-1 .group-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  height: 76px;
+  left: 116px;
+  min-width: 254px;
+  position: absolute;
+  top: 59px;
+}
+
+.eliminargrupoweb-1-1 .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.eliminargrupoweb-1-1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.eliminargrupoweb-1-1 .rectngulo-1447 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 46px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.eliminargrupoweb-1-1 .trazado-241 {
+  height: 17px;
+  left: 208px;
+  position: absolute;
+  top: 258px;
+  width: 127px;
+}
+
+.eliminargrupoweb-1-1 .rectangle-6 {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  height: 59px;
+  left: 1178px;
+  position: absolute;
+  top: 69px;
+  width: 182px;
+}
+
+.eliminargrupoweb-1-1 .cerrar-sesin {
+  left: 1185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 168px;
+}
+
+.eliminargrupoweb-1-1 .group {
+  height: 45px;
+  left: 1104px;
+  position: absolute;
+  top: 76px;
+  width: 45px;
+}
+
+.eliminargrupoweb-1-1 .group-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 458px;
+  min-height: 68px;
+  position: absolute;
+  top: 172px;
+  width: 86px;
+}
+
+.eliminargrupoweb-1-1 .grupo-339 {
+  height: 40px;
+  margin-right: 1.71px;
+  width: 40px;
+}
+
+.eliminargrupoweb-1-1 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 84px;
+}
+
+.eliminargrupoweb-1-1 .group-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 690px;
+  min-height: 65px;
+  position: absolute;
+  top: 175px;
+  width: 68px;
+}
+
+.eliminargrupoweb-1-1 .group-2 {
+  height: 38px;
+  margin-right: 2.0px;
+  width: 52px;
+}
+
+.eliminargrupoweb-1-1 .qu-hay-de-nuevo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 66px;
+}
+
+.eliminargrupoweb-1-1 .overlap-group4 {
+  height: 69px;
+  left: 233px;
+  position: absolute;
+  top: 171px;
+  width: 79px;
+}
+
+.eliminargrupoweb-1-1 .group-2-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 69px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.eliminargrupoweb-1-1 .rectngulo-1448 {
+  background-color: var(--rgb255-255-255);
+  border: 3px solid;
+  border-radius: 4px;
+  height: 41px;
+  margin-right: 2.0px;
+  width: 41px;
+}
+
+.eliminargrupoweb-1-1 .qu-hay-de-nuevo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 77px;
+}
+
+.eliminargrupoweb-1-1 .trazado-239 {
+  height: 15px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.eliminargrupoweb-1-1 .jkl325 {
+  left: 163px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 716px;
+  width: 144px;
+}
+
+.eliminargrupoweb-1-1 .trazado-151 {
+  height: 37px;
+  left: 292px;
+  object-fit: cover;
+  position: absolute;
+  top: 714px;
+  width: 32px;
+}
+
+.eliminargrupoweb-1-1 .overlap-group5 {
+  border-radius: 4px;
+  height: 48px;
+  left: 1104px;
+  position: absolute;
+  top: 742px;
+  width: 188px;
+}
+
+.eliminargrupoweb-1-1 .nmero-de-estudiantes-2 {
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 110px;
+}
+
+.eliminargrupoweb-1-1 .rectngulo-1091 {
+  border: 2px solid;
+  border-color: var(--goblin);
+  border-radius: 4px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+
+.eliminargrupoweb-1-1 .ellipse-7 {
+  background-color: var(--rgb255-255-255);
+  border: 1px solid;
+  border-color: var(--goblin);
+  border-radius: 19px;
+  height: 38px;
+  left: 149px;
+  position: absolute;
+  top: 669px;
+  width: 38px;
+}
+
+.eliminargrupoweb-1-1 .rectangle-10 {
+  background-color: var(--gravel-2);
+  border: 1px none;
+  height: 572px;
+  left: 2px;
+  position: absolute;
+  top: 276px;
+  width: 1441px;
+}
+
+.eliminargrupoweb-1-1 .overlap-group6 {
+  height: 191px;
+  left: 1050px;
+  position: absolute;
+  top: 593px;
+  width: 294px;
+}
+
+.eliminargrupoweb-1-1 .overlap-group-2 {
+  height: 191px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.eliminargrupoweb-1-1 .rectangle-11 {
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  border-radius: 5px;
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.eliminargrupoweb-1-1 .polygon-1 {
+  height: 43px;
+  left: 122px;
+  position: absolute;
+  top: 148px;
+  width: 50px;
+}
+
+.eliminargrupoweb-1-1 .eliminar-grupo {
+  left: 81px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.eliminargrupoweb-1-1 .taller-ii-se-eliminar-para-siempre {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  width: 197px;
+}
+
+.eliminargrupoweb-1-1 .rectangle-13 {
+  background-color: var(--zanah);
+  border: 1px solid;
+  border-color: var(--de-york);
+  border-radius: 4px;
+  height: 36px;
+  left: 167px;
+  position: absolute;
+  top: 96px;
+  width: 106px;
+}
+
+.eliminargrupoweb-1-1 .rectangle-14 {
+  background-color: var(--zanah);
+  border: 1px solid;
+  border-color: var(--de-york);
+  border-radius: 4px;
+  height: 36px;
+  left: 35px;
+  position: absolute;
+  top: 96px;
+  width: 106px;
+}
+
+.eliminargrupoweb-1-1 .cancelar {
+  cursor: pointer;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 102px;
+  white-space: nowrap;
+}
+
+.eliminargrupoweb-1-1 .continuar {
+  cursor: pointer;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+}

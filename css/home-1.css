@@ -1,0 +1,271 @@
+/* screen - home-1 */
+
+.home-1 {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 99px;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.home-1 .overlap-group3 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 275px;
+  min-width: 1440px;
+}
+
+.home-1 .rectngulo-1447 {
+  align-self: flex-start;
+  border: 1px solid;
+  border-color: transparent;
+  height: 46px;
+  width: 46px;
+}
+
+.home-1 .group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  margin-left: 67px;
+  margin-top: 24.0px;
+  min-height: 181px;
+  width: 254px;
+}
+
+.home-1 .group-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  min-width: 254px;
+}
+
+.home-1 .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.home-1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.home-1 .group-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 57.0px;
+  min-width: 77px;
+}
+
+.home-1 .overlap-group1 {
+  height: 69px;
+  position: relative;
+  width: 79px;
+}
+
+.home-1 .group-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 69px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.home-1 .rectngulo-1448 {
+  background-color: var(--de-york);
+  border: 3px solid;
+  border-radius: 4px;
+  height: 41px;
+  margin-right: 2.0px;
+  width: 41px;
+}
+
+.home-1 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 77px;
+}
+
+.home-1 .trazado-239 {
+  height: 15px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.home-1 .group-3 {
+  align-items: center;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-bottom: 35px;
+  margin-left: 88px;
+  min-height: 68px;
+  width: 86px;
+}
+
+.home-1 .grupo-339 {
+  height: 40px;
+  margin-right: 1.71px;
+  width: 40px;
+}
+
+.home-1 .qu-hay-de-nuevo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 84px;
+}
+
+.home-1 .group-4 {
+  align-items: center;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-bottom: 35.0px;
+  margin-left: 146px;
+  min-height: 65px;
+  width: 68px;
+}
+
+.home-1 .group {
+  height: 38px;
+  margin-right: 2.0px;
+  width: 52px;
+}
+
+.home-1 .qu-hay-de-nuevo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 66px;
+}
+
+.home-1 .group-6 {
+  height: 45px;
+  margin-bottom: 77.71px;
+  margin-left: 346px;
+  width: 45px;
+}
+
+.home-1 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--orange-yellow);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  margin-bottom: 78.0px;
+  margin-left: 29px;
+  min-width: 182px;
+  padding: 14px 7px;
+}
+
+.home-1 .cerrar-sesin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.home-1 .overlap-group6 {
+  height: 524px;
+  position: relative;
+  width: 1442px;
+}
+
+.home-1 .overlap-group {
+  height: 159px;
+  left: 259px;
+  position: absolute;
+  top: 102px;
+  width: 321px;
+}
+
+.home-1 .tus-eventos-aparecern-aqui {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 321px;
+}
+
+.home-1 .comienza-unindote-a {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 95px;
+  width: 321px;
+}
+
+.home-1 .group-container-1 {
+  height: 524px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.home-1 .group-7 {
+  height: 509px;
+  left: 757px;
+  position: absolute;
+  top: 0;
+  width: 509px;
+}
+
+.home-1 .overlap-group2 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 76.8px;
+  position: absolute;
+  top: 474px;
+}
+
+.home-1 .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.home-1 .qu-hay-de-nuevo-3 {
+  left: 191px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 482px;
+}

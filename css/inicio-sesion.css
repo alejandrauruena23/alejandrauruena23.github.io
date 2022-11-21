@@ -1,0 +1,256 @@
+/* screen - inicio-sesion */
+
+.inicio-sesion {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 924px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.inicio-sesion .group-container {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 194px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 56px 81px;
+}
+
+.inicio-sesion .group-1 {
+  align-items: center;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  gap: 11px;
+  min-width: 254px;
+}
+
+.inicio-sesion .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.inicio-sesion .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.inicio-sesion .overlap-group8 {
+  border-radius: 3px;
+  height: 59px;
+  margin-left: 621px;
+  margin-top: 5.0px;
+  position: relative;
+  width: 182px;
+}
+
+.inicio-sesion .rectangle-5 {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.inicio-sesion .registrarse {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 168px;
+}
+
+.inicio-sesion .overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--orange-yellow);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  margin-left: 19px;
+  margin-top: 5.0px;
+  min-width: 182px;
+  padding: 14px 7px;
+}
+
+.inicio-sesion .iniciar-sesin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.inicio-sesion .iniciar-sesin-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 139px;
+  margin-top: 79px;
+  width: 482px;
+}
+
+.inicio-sesion .overlap-group9 {
+  height: 564px;
+  margin-top: 40px;
+  position: relative;
+  width: 1442px;
+}
+
+.inicio-sesion .email {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 220px;
+  min-height: 75px;
+  position: absolute;
+  top: 2px;
+  width: 364px;
+}
+
+.inicio-sesion .correo {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.inicio-sesion .overlap-group {
+  align-items: flex-start;
+  background-color: var(--zanah);
+  border: 2px solid;
+  border-color: var(--norway);
+  border-radius: 10px;
+  display: flex;
+  height: 50px;
+  min-width: 360px;
+  padding: 14px 18px;
+}
+
+.inicio-sesion .alealemailcom {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.inicio-sesion .overlap-group6 {
+  height: 75px;
+  left: 220px;
+  position: absolute;
+  top: 110px;
+  width: 403px;
+}
+
+.inicio-sesion .password {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 0;
+  min-height: 75px;
+  position: absolute;
+  top: 0;
+  width: 364px;
+}
+
+.inicio-sesion .contrasea {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.inicio-sesion .text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.inicio-sesion .contrasea-incorrecta {
+  color: var(--rgb255-255-255);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 253px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+}
+
+.inicio-sesion .group-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 59px;
+  left: 398px;
+  min-width: 184px;
+  position: absolute;
+  top: 254px;
+}
+
+.inicio-sesion .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--goblin);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  min-width: 182px;
+  padding: 15px 7px;
+}
+
+.inicio-sesion .continuar {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.inicio-sesion .group-container-1 {
+  height: 564px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.inicio-sesion .group {
+  height: 562px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 581px;
+}
+
+.inicio-sesion .overlap-group3 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 76.8px;
+  position: absolute;
+  top: 514px;
+}
+
+.inicio-sesion .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}

@@ -1,0 +1,358 @@
+/* screen - creargrupo-1 */
+
+.creargrupo-1 {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.creargrupo-1 .overlap-group6 {
+  align-items: flex-end;
+  background-color: var(--goblin);
+  display: flex;
+  height: 275px;
+  margin-top: -4px;
+  min-width: 1440px;
+}
+
+.creargrupo-1 .rectngulo-1447 {
+  align-self: flex-start;
+  border: 1px solid;
+  border-color: transparent;
+  height: 46px;
+  width: 46px;
+}
+
+.creargrupo-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 67px;
+  min-height: 216px;
+  width: 254px;
+}
+
+.creargrupo-1 .group-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  min-width: 254px;
+}
+
+.creargrupo-1 .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.creargrupo-1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.creargrupo-1 .overlap-group4 {
+  height: 69px;
+  margin-left: 59.0px;
+  margin-top: 36px;
+  position: relative;
+  width: 79px;
+}
+
+.creargrupo-1 .group-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 69px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.creargrupo-1 .rectngulo-1448 {
+  background-color: var(--rgb255-255-255);
+  border: 3px solid;
+  border-color: var(--de-york);
+  border-radius: 4px;
+  height: 41px;
+  margin-right: 2.0px;
+  width: 41px;
+}
+
+.creargrupo-1 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 77px;
+}
+
+.creargrupo-1 .trazado-239 {
+  height: 15px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.creargrupo-1 .trazado-240 {
+  height: 17px;
+  margin-left: 57.34px;
+  margin-top: 18px;
+  width: 127px;
+}
+
+.creargrupo-1 .group-3 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-bottom: 35px;
+  margin-left: 88px;
+  min-height: 68px;
+  width: 86px;
+}
+
+.creargrupo-1 .grupo-339 {
+  height: 40px;
+  margin-right: 1.71px;
+  width: 40px;
+}
+
+.creargrupo-1 .qu-hay-de-nuevo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 84px;
+}
+
+.creargrupo-1 .group-4 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-bottom: 35.0px;
+  margin-left: 146px;
+  min-height: 65px;
+  width: 68px;
+}
+
+.creargrupo-1 .group {
+  height: 38px;
+  margin-right: 2.0px;
+  width: 52px;
+}
+
+.creargrupo-1 .qu-hay-de-nuevo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 66px;
+}
+
+.creargrupo-1 .group-5 {
+  align-self: center;
+  cursor: pointer;
+  height: 45px;
+  margin-bottom: 77.71px;
+  margin-left: 346px;
+  width: 45px;
+}
+
+.creargrupo-1 .overlap-group7 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--orange-yellow);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  margin-bottom: 78.0px;
+  margin-left: 29px;
+  min-width: 182px;
+  padding: 14px 7px;
+}
+
+.creargrupo-1 .cerrar-sesin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.creargrupo-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 77px;
+  height: 60px;
+  margin-left: 97px;
+  margin-top: 63px;
+  min-width: 335px;
+}
+
+.creargrupo-1 .trazado-10 {
+  cursor: pointer;
+  height: 31px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.creargrupo-1 .crear-un-grupo-de-clase {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-width: 227px;
+  white-space: nowrap;
+}
+
+.creargrupo-1 .input {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: 205px;
+  margin-top: 34px;
+  min-height: 248px;
+  width: 327px;
+}
+
+.creargrupo-1 .overlap-group {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.6px;
+}
+
+.creargrupo-1 .nombre {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 38px;
+  text-align: right;
+}
+
+.creargrupo-1 .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 12.2px;
+}
+
+.creargrupo-1 .descripcin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: right;
+}
+
+.creargrupo-1 .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 8.4px;
+}
+
+.creargrupo-1 .nmero-de-estudiantes {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 111px;
+  text-align: right;
+}
+
+.creargrupo-1 .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.8px;
+}
+
+.creargrupo-1 .das-a-la-semana {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 80px;
+  text-align: right;
+}
+
+.creargrupo-1 .group-6 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 118.0px;
+  min-width: 184px;
+}
+
+.creargrupo-1 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--goblin);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  min-width: 182px;
+  padding: 15px 7px;
+}
+
+.creargrupo-1 .continuar {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.creargrupo-1 .info {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 113px;
+  min-width: 1442px;
+}
+
+.creargrupo-1 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  min-width: 1440px;
+  padding: 0 76.8px;
+}
+
+.creargrupo-1 .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}

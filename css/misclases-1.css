@@ -1,0 +1,328 @@
+/* screen - misclases-1 */
+
+.misclases-1 {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.misclases-1 .overlap-group3 {
+  height: 898px;
+  position: relative;
+  width: 1442px;
+}
+
+.misclases-1 .base {
+  background-color: var(--zanah);
+  border: 1px solid;
+  border-color: transparent;
+  height: 860px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 1400px;
+}
+
+.misclases-1 .overlap-group {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 76.8px;
+  position: absolute;
+  top: 848px;
+}
+
+.misclases-1 .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.misclases-1 .base-1 {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 275px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.misclases-1 .group-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  height: 76px;
+  left: 113px;
+  min-width: 254px;
+  position: absolute;
+  top: 59px;
+}
+
+.misclases-1 .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.misclases-1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.misclases-1 .rectngulo-1447 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.misclases-1 .rectangle-6 {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  height: 59px;
+  left: 1175px;
+  position: absolute;
+  top: 69px;
+  width: 182px;
+}
+
+.misclases-1 .cerrar-sesin {
+  left: 1182px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 168px;
+}
+
+.misclases-1 .group {
+  cursor: pointer;
+  height: 45px;
+  left: 1101px;
+  position: absolute;
+  top: 76px;
+  width: 45px;
+}
+
+.misclases-1 .group-3 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 455px;
+  min-height: 68px;
+  position: absolute;
+  top: 172px;
+  width: 86px;
+}
+
+.misclases-1 .grupo-339 {
+  height: 40px;
+  margin-right: 1.71px;
+  width: 40px;
+}
+
+.misclases-1 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 84px;
+}
+
+.misclases-1 .group-4 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 687px;
+  min-height: 65px;
+  position: absolute;
+  top: 175px;
+  width: 68px;
+}
+
+.misclases-1 .group-2 {
+  height: 38px;
+  margin-right: 2.0px;
+  width: 52px;
+}
+
+.misclases-1 .qu-hay-de-nuevo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 66px;
+}
+
+.misclases-1 .overlap-group1 {
+  height: 69px;
+  left: 230px;
+  position: absolute;
+  top: 171px;
+  width: 79px;
+}
+
+.misclases-1 .group-2-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 69px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.misclases-1 .rectngulo-1448 {
+  background-color: var(--rgb255-255-255);
+  border: 3px solid;
+  border-color: var(--de-york);
+  border-radius: 4px;
+  height: 41px;
+  margin-right: 2.0px;
+  width: 41px;
+}
+
+.misclases-1 .qu-hay-de-nuevo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 77px;
+}
+
+.misclases-1 .trazado-239 {
+  height: 15px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.misclases-1 .post {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  left: 262px;
+  min-height: 205px;
+  position: absolute;
+  top: 441px;
+  width: 321px;
+}
+
+.misclases-1 .qu-hay-de-nuevo-3 {
+  color: var(--goblin);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 160px;
+}
+
+.misclases-1 .overlap-group-1 {
+  height: 159px;
+  position: relative;
+  width: 321px;
+}
+
+.misclases-1 .tus-eventos-aparecern-aqui {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 321px;
+}
+
+.misclases-1 .comienza-unindote-a {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 95px;
+  width: 321px;
+}
+
+.misclases-1 .group-5 {
+  height: 464px;
+  left: 753px;
+  position: absolute;
+  top: 404px;
+  width: 464px;
+}
+
+.misclases-1 .group-2-2 {
+  align-items: flex-end;
+  background-color: #74bf60;
+  border-radius: 28.5px;
+  cursor: pointer;
+  display: flex;
+  height: 57px;
+  left: 1266px;
+  min-width: 57px;
+  padding: 16px 17.0px;
+  position: absolute;
+  top: 713px;
+}
+
+.misclases-1 .overlap-group2 {
+  height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.misclases-1 .rectangle-7 {
+  background-color: var(--concrete);
+  border: 1px none;
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.misclases-1 .rectangle-8 {
+  background-color: var(--concrete);
+  border: 1px none;
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  transform: rotate(90.00deg);
+  width: 6px;
+}
+
+.misclases-1 .trazado-240 {
+  height: 17px;
+  left: 205px;
+  position: absolute;
+  top: 258px;
+  width: 127px;
+}

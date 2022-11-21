@@ -1,0 +1,394 @@
+/* screen - perfilweb-2 */
+
+.perfilweb-2 {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.perfilweb-2 .overlap-group4 {
+  height: 275px;
+  position: relative;
+  width: 1442px;
+}
+
+.perfilweb-2 .trazado-240 {
+  height: 17px;
+  left: 204px;
+  position: absolute;
+  top: 258px;
+  width: 127px;
+}
+
+.perfilweb-2 .base {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 275px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.perfilweb-2 .group-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  height: 76px;
+  left: 115px;
+  min-width: 254px;
+  position: absolute;
+  top: 59px;
+}
+
+.perfilweb-2 .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.perfilweb-2 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.perfilweb-2 .rectngulo-1447 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 46px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.perfilweb-2 .trazado-241 {
+  height: 17px;
+  left: 207px;
+  position: absolute;
+  top: 258px;
+  width: 127px;
+}
+
+.perfilweb-2 .rectangle-6 {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  height: 59px;
+  left: 1177px;
+  position: absolute;
+  top: 69px;
+  width: 182px;
+}
+
+.perfilweb-2 .cerrar-sesin {
+  left: 1184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 168px;
+}
+
+.perfilweb-2 .group {
+  height: 45px;
+  left: 1103px;
+  position: absolute;
+  top: 76px;
+  width: 45px;
+}
+
+.perfilweb-2 .group-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 457px;
+  min-height: 68px;
+  position: absolute;
+  top: 172px;
+  width: 86px;
+}
+
+.perfilweb-2 .grupo-339 {
+  height: 40px;
+  margin-right: 1.71px;
+  width: 40px;
+}
+
+.perfilweb-2 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 84px;
+}
+
+.perfilweb-2 .group-4 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 689px;
+  min-height: 65px;
+  position: absolute;
+  top: 175px;
+  width: 68px;
+}
+
+.perfilweb-2 .group-2 {
+  height: 38px;
+  margin-right: 2.0px;
+  width: 52px;
+}
+
+.perfilweb-2 .qu-hay-de-nuevo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 66px;
+}
+
+.perfilweb-2 .group-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 69px;
+  left: 232px;
+  min-width: 77px;
+  position: absolute;
+  top: 171px;
+}
+
+.perfilweb-2 .overlap-group3 {
+  height: 69px;
+  position: relative;
+  width: 79px;
+}
+
+.perfilweb-2 .group-2-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 69px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.perfilweb-2 .rectngulo-1448 {
+  background-color: var(--de-york);
+  border: 3px solid;
+  border-radius: 4px;
+  height: 41px;
+  margin-right: 2.0px;
+  width: 41px;
+}
+
+.perfilweb-2 .qu-hay-de-nuevo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 77px;
+}
+
+.perfilweb-2 .trazado-239 {
+  height: 15px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.perfilweb-2 .overlap-group5 {
+  align-self: center;
+  height: 202px;
+  margin-right: 2.0px;
+  margin-top: 1px;
+  position: relative;
+  width: 1402px;
+}
+
+.perfilweb-2 .post-thumbnail {
+  background-color: var(--de-york);
+  cursor: pointer;
+  height: 202px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 1402px;
+}
+
+.perfilweb-2 .settings {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  left: 117px;
+  min-height: 62px;
+  position: absolute;
+  top: 78px;
+  width: 301px;
+}
+
+.perfilweb-2 .name {
+  color: var(--goblin);
+  font-family: var(--font-family-academico-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.perfilweb-2 .docente {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 16px;
+  white-space: nowrap;
+}
+
+.perfilweb-2 .info {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 151px;
+  margin-top: 34px;
+  min-width: 345px;
+}
+
+.perfilweb-2 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--zanah);
+  display: flex;
+  height: 109px;
+  min-width: 343px;
+  padding: 20px 24px;
+}
+
+.perfilweb-2 .descripcin-del-perfil {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 64px;
+  width: 295px;
+}
+
+.perfilweb-2 .teams {
+  align-items: flex-start;
+  display: flex;
+  height: 134px;
+  margin-left: 151px;
+  margin-top: 27px;
+  min-width: 345px;
+}
+
+.perfilweb-2 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--zanah);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 134px;
+  padding: 18px 22px;
+  width: 343px;
+}
+
+.perfilweb-2 .grupos-de-clase {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 2px;
+  white-space: nowrap;
+}
+
+.perfilweb-2 .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  min-width: 297px;
+}
+
+.perfilweb-2 .elipse-101 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+}
+
+.perfilweb-2 .elipse-10 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 20px;
+  height: 40px;
+  margin-left: 16px;
+  width: 40px;
+}
+
+.perfilweb-2 .button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 72px;
+  min-width: 73px;
+}
+
+.perfilweb-2 .overlap-group {
+  align-items: center;
+  background-color: var(--goblin);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 71px;
+  padding: 0 16.4px;
+}
+
+.perfilweb-2 .aadir {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 38px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.perfilweb-2 .info-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 66px;
+  min-width: 1442px;
+}
+
+.perfilweb-2 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  min-width: 1440px;
+  padding: 0 76.8px;
+}
+
+.perfilweb-2 .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}

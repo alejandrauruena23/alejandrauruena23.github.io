@@ -1,0 +1,594 @@
+/* screen - eventoscalendario-2 */
+
+.eventoscalendario-2 {
+  align-items: center;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.eventoscalendario-2 .overlap-group8 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.0px;
+  margin-top: -8px;
+  min-height: 275px;
+  padding: 0 2px;
+  width: 1442px;
+}
+
+.eventoscalendario-2 .rectngulo-1447 {
+  align-self: flex-start;
+  border: 1px solid;
+  border-color: transparent;
+  height: 46px;
+  width: 46px;
+}
+
+.eventoscalendario-2 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 181px;
+  margin-left: 32.0px;
+  margin-top: 13px;
+  min-width: 1244px;
+}
+
+.eventoscalendario-2 .group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  min-height: 181px;
+  width: 254px;
+}
+
+.eventoscalendario-2 .group-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  min-width: 254px;
+}
+
+.eventoscalendario-2 .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.eventoscalendario-2 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.eventoscalendario-2 .group-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 57.0px;
+  min-width: 77px;
+}
+
+.eventoscalendario-2 .overlap-group5 {
+  height: 69px;
+  position: relative;
+  width: 79px;
+}
+
+.eventoscalendario-2 .group-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 69px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.eventoscalendario-2 .rectngulo-1448 {
+  background-color: var(--de-york);
+  border: 3px solid;
+  border-radius: 4px;
+  height: 41px;
+  margin-right: 2.0px;
+  width: 41px;
+}
+
+.eventoscalendario-2 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 77px;
+}
+
+.eventoscalendario-2 .trazado-239 {
+  height: 15px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.eventoscalendario-2 .group-3 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-bottom: 0;
+  margin-left: 88px;
+  min-height: 68px;
+  width: 86px;
+}
+
+.eventoscalendario-2 .grupo-339 {
+  height: 40px;
+  margin-right: 1.71px;
+  width: 40px;
+}
+
+.eventoscalendario-2 .qu-hay-de-nuevo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 84px;
+}
+
+.eventoscalendario-2 .group-4 {
+  align-items: center;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-left: 146px;
+  min-height: 65px;
+  width: 68px;
+}
+
+.eventoscalendario-2 .group {
+  height: 38px;
+  margin-right: 2.0px;
+  width: 52px;
+}
+
+.eventoscalendario-2 .qu-hay-de-nuevo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 66px;
+}
+
+.eventoscalendario-2 .group-6 {
+  cursor: pointer;
+  height: 45px;
+  margin-left: 346px;
+  margin-top: 17px;
+  width: 45px;
+}
+
+.eventoscalendario-2 .overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--orange-yellow);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  margin-left: 29px;
+  margin-top: 10px;
+  min-width: 182px;
+  padding: 14px 7px;
+}
+
+.eventoscalendario-2 .cerrar-sesin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.eventoscalendario-2 .trazado-240 {
+  height: 17px;
+  margin-right: 444.52px;
+  margin-top: 18px;
+  width: 127px;
+}
+
+.eventoscalendario-2 .overlap-group-container {
+  align-items: flex-end;
+  display: flex;
+  gap: 100px;
+  margin-left: 27.0px;
+  margin-top: 78px;
+  min-width: 1103px;
+}
+
+.eventoscalendario-2 .post-thumbnail-container {
+  height: 400px;
+  position: relative;
+  width: 495px;
+}
+
+.eventoscalendario-2 .post-thumbnail {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 224px;
+  min-height: 312px;
+  opacity: 0.33;
+  position: absolute;
+  top: 45px;
+  width: 271px;
+}
+
+.eventoscalendario-2 .rectngulo-747 {
+  background-color: var(--de-york);
+  border: 1px solid;
+  border-color: transparent;
+  height: 156px;
+  width: 265px;
+}
+
+.eventoscalendario-2 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  display: flex;
+  flex-direction: column;
+  min-height: 156px;
+  padding: 20.0px 23px;
+  width: 265px;
+}
+
+.eventoscalendario-2 .excepteur-sint {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -12px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .excepteur-sint-occae {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 19px;
+  min-height: 31px;
+  width: 218px;
+}
+
+.eventoscalendario-2 .flex-row-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 17px;
+  margin-right: 5px;
+  margin-top: 29px;
+  min-width: 193px;
+}
+
+.eventoscalendario-2 .number {
+  letter-spacing: 0;
+  line-height: 17px;
+  min-width: 19px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .number-1 {
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-left: 41px;
+  min-width: 17px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .share {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-left: 83px;
+  min-width: 33px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .post-thumbnail-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 337px;
+  opacity: 0.33;
+  position: absolute;
+  top: 32px;
+  width: 292px;
+}
+
+.eventoscalendario-2 .rectngulo-747-1 {
+  background-color: var(--de-york);
+  border: 1px solid;
+  border-color: transparent;
+  height: 168px;
+  width: 286px;
+}
+
+.eventoscalendario-2 .overlap-group2 {
+  align-items: center;
+  background-color: var(--rgb255-255-255);
+  display: flex;
+  flex-direction: column;
+  min-height: 169px;
+  padding: 23px 0;
+  width: 286px;
+}
+
+.eventoscalendario-2 .excepteur-sint-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -11px;
+  min-height: 19px;
+  white-space: nowrap;
+  width: 236px;
+}
+
+.eventoscalendario-2 .excepteur-sint-occae-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 20px;
+  min-height: 34px;
+  width: 236px;
+}
+
+.eventoscalendario-2 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  margin-left: 18.0px;
+  margin-top: 30px;
+  min-width: 210px;
+}
+
+.eventoscalendario-2 .number-2 {
+  letter-spacing: 0;
+  line-height: 19px;
+  min-width: 21px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .number-3 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 44px;
+  min-width: 19px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .share-1 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 89px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .post-thumbnail-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 169px;
+  min-height: 349px;
+  opacity: 0.7;
+  position: absolute;
+  top: 26px;
+  width: 302px;
+}
+
+.eventoscalendario-2 .rectngulo-747-2 {
+  background-color: var(--de-york);
+  border: 1px solid;
+  border-color: transparent;
+  height: 174px;
+  width: 296px;
+}
+
+.eventoscalendario-2 .overlap-group3 {
+  align-items: center;
+  background-color: var(--rgb255-255-255);
+  display: flex;
+  flex-direction: column;
+  min-height: 175px;
+  padding: 23px 0;
+  width: 296px;
+}
+
+.eventoscalendario-2 .excepteur-sint-2 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -10px;
+  min-height: 20px;
+  white-space: nowrap;
+  width: 244px;
+}
+
+.eventoscalendario-2 .excepteur-sint-occae-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 22px;
+  min-height: 35px;
+  width: 244px;
+}
+
+.eventoscalendario-2 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  margin-left: 20.0px;
+  margin-top: 32px;
+  min-width: 218px;
+}
+
+.eventoscalendario-2 .number-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 23px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .number-5 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 44px;
+  min-width: 21px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .share-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 90px;
+  white-space: nowrap;
+}
+
+.eventoscalendario-2 .post-thumbnail-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 56px;
+  min-height: 400px;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.eventoscalendario-2 .rectngulo-747-3 {
+  background-color: var(--de-york);
+  border: 1px solid;
+  border-color: transparent;
+  height: 200px;
+  width: 340px;
+}
+
+.eventoscalendario-2 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  display: flex;
+  height: 200px;
+  min-width: 340px;
+  padding: 74px 30px;
+}
+
+.eventoscalendario-2 .excepteur-sint-occae-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 40px;
+  width: 280px;
+}
+
+.eventoscalendario-2 .overlap-group7 {
+  height: 390px;
+  position: relative;
+  width: 508px;
+}
+
+.eventoscalendario-2 .rectngulo-1450 {
+  background-color: var(--rgb255-255-255);
+  border: 1px solid;
+  border-color: #707070;
+  height: 344px;
+  left: 39px;
+  opacity: 0.78;
+  position: absolute;
+  top: 46px;
+  width: 429px;
+}
+
+.eventoscalendario-2 .january-2011-plain {
+  height: 368px;
+  left: 39px;
+  position: absolute;
+  top: 22px;
+  width: 429px;
+}
+
+.eventoscalendario-2 .elipse-282 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 17px;
+  height: 34px;
+  left: 115px;
+  position: absolute;
+  top: 100px;
+  width: 34px;
+}
+
+.eventoscalendario-2 .elipse-283 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 17px;
+  height: 34px;
+  left: 177px;
+  position: absolute;
+  top: 100px;
+  width: 34px;
+}
+
+.eventoscalendario-2 .elipse-284 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 17px;
+  height: 34px;
+  left: 177px;
+  position: absolute;
+  top: 218px;
+  width: 34px;
+}
+
+.eventoscalendario-2 .rectngulo-1449 {
+  background-color: var(--de-york);
+  border: 1px solid;
+  border-color: transparent;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 508px;
+}
+
+.eventoscalendario-2 .info {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 103px;
+  min-width: 1442px;
+}
+
+.eventoscalendario-2 .overlap-group {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  min-width: 1440px;
+  padding: 0 76.8px;
+}
+
+.eventoscalendario-2 .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}

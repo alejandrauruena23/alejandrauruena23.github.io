@@ -1,0 +1,336 @@
+/* screen - registro */
+
+.registro {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 924px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.registro .overlap-group2 {
+  height: 195px;
+  margin-left: 1px;
+  margin-top: -1px;
+  position: relative;
+  width: 1440px;
+}
+
+.registro .rectngulo-449 {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 32px;
+  left: 75px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.registro .rectngulo-453 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  height: 42px;
+  left: 115px;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.registro .rectngulo-454 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  height: 41px;
+  left: 75px;
+  position: absolute;
+  top: 40px;
+  width: 42px;
+}
+
+.registro .trazado-234 {
+  height: 39px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 39px;
+}
+
+.registro .rectngulo-450 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  height: 32px;
+  left: 105px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.registro .rectngulo-451 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  height: 32px;
+  left: 75px;
+  position: absolute;
+  top: 30px;
+  width: 32px;
+}
+
+.registro .rectngulo-452 {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 32px;
+  left: 105px;
+  position: absolute;
+  top: 30px;
+  width: 32px;
+}
+
+.registro .base {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 194px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1440px;
+}
+
+.registro .group-1 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 11px;
+  height: 76px;
+  left: 101px;
+  min-width: 254px;
+  position: absolute;
+  top: 63px;
+}
+
+.registro .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.registro .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.registro .rectangle-5 {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  height: 59px;
+  left: 976px;
+  position: absolute;
+  top: 71px;
+  width: 182px;
+}
+
+.registro .rectangle-6 {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 59px;
+  left: 1177px;
+  position: absolute;
+  top: 71px;
+  width: 182px;
+}
+
+.registro .registrarse {
+  left: 983px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  width: 168px;
+}
+
+.registro .iniciar-sesin {
+  left: 1184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  width: 168px;
+}
+
+.registro .registrarse-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 127px;
+  margin-top: 79px;
+  width: 482px;
+}
+
+.registro .overlap-group4 {
+  height: 567px;
+  margin-top: 40px;
+  position: relative;
+  width: 1442px;
+}
+
+.registro .name {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 198px;
+  min-height: 75px;
+  position: absolute;
+  top: 6px;
+  width: 362px;
+}
+
+.registro .nombre {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.registro .rectngulo {
+  background-color: var(--zanah);
+  border: 2px solid;
+  border-color: var(--norway);
+  border-radius: 10px;
+  height: 50px;
+  width: 360px;
+}
+
+.registro .email {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 198px;
+  min-height: 75px;
+  position: absolute;
+  top: 116px;
+  width: 362px;
+}
+
+.registro .correo {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.registro .password {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 620px;
+  min-height: 75px;
+  position: absolute;
+  top: 6px;
+  width: 362px;
+}
+
+.registro .contrasea {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.registro .password-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 620px;
+  min-height: 75px;
+  position: absolute;
+  top: 119px;
+  width: 362px;
+}
+
+.registro .contrasea-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.registro .group-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 59px;
+  left: 795px;
+  min-width: 184px;
+  position: absolute;
+  top: 254px;
+}
+
+.registro .overlap-group {
+  align-items: flex-start;
+  background-color: var(--goblin);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  min-width: 182px;
+  padding: 15px 7px;
+}
+
+.registro .continuar {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.registro .group-container {
+  height: 567px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.registro .group {
+  height: 562px;
+  left: 1068px;
+  position: absolute;
+  top: 0;
+  width: 372px;
+}
+
+.registro .overlap-group1 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 76.8px;
+  position: absolute;
+  top: 517px;
+}
+
+.registro .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}

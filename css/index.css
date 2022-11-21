@@ -1,0 +1,278 @@
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2504px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.index .group-container {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 194px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 56px 81px;
+}
+
+.index .group-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 11px;
+  min-width: 254px;
+}
+
+.index .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.index .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.index .overlap-group4 {
+  border-radius: 3px;
+  height: 59px;
+  margin-left: 621px;
+  margin-top: 5.0px;
+  position: relative;
+  width: 182px;
+}
+
+.index .rectangle {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.index .registrarse {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 168px;
+}
+
+.index .overlap-group5 {
+  border-radius: 3px;
+  height: 59px;
+  margin-left: 19px;
+  margin-top: 5.0px;
+  position: relative;
+  width: 182px;
+}
+
+.index .iniciar-sesin {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 168px;
+}
+
+.index .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/books-gd77112ec0-1920-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  margin-right: 5.0px;
+  min-height: 689px;
+  padding: 104px 415px;
+  width: 1445px;
+}
+
+.index .manejo-de-tareas-par {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 45.0px;
+  text-align: center;
+  width: 482px;
+}
+
+.index .toma-asistencia-opt {
+  color: var(--gravel);
+  font-family: var(--font-family-exo_2);
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 36px;
+  text-align: center;
+  width: 570px;
+}
+
+.index .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 17.0px;
+  margin-top: 137px;
+  min-width: 1087px;
+}
+
+.index .overlap-group1 {
+  height: 241px;
+  margin-bottom: 71.0px;
+  position: relative;
+  width: 504px;
+}
+
+.index .text-layout {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 157px;
+  left: 0;
+  min-height: 241px;
+  position: absolute;
+  top: 0;
+  width: 504px;
+}
+
+.index .acerca-de {
+  color: var(--goblin);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 4.02px;
+  min-width: 65px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.index .conocemos-tus-necesidades {
+  color: var(--goblin);
+  font-family: var(--font-family-exo_2);
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-right: 4.0px;
+  min-height: 60px;
+  text-align: center;
+  width: 500px;
+}
+
+.index .dailyst-te-ayuda-a-organizarte {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  width: 482px;
+}
+
+.index .span1 {
+  color: var(--gravel);
+  font-family: var(--font-family-academico-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+}
+
+.index .vector-1 {
+  height: 548px;
+  margin-left: 46px;
+  width: 1px;
+}
+
+.index .toma-asistencia-opt-1 {
+  color: var(--gravel);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-bottom: 70.0px;
+  margin-left: 78px;
+  width: 456px;
+}
+
+.index .asset-1-2 {
+  height: 217px;
+  margin-left: 15.0px;
+  margin-top: 134px;
+  object-fit: cover;
+  width: 191px;
+}
+
+.index .header {
+  align-items: flex-start;
+  display: flex;
+  height: 72px;
+  margin-left: 2.0px;
+  margin-top: 31px;
+  min-width: 662px;
+}
+
+.index .toma-asistencia-opt-2 {
+  color: var(--gravel);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 36px;
+  text-align: center;
+  width: 660px;
+}
+
+.index .artboard-2-google-play {
+  height: 63px;
+  margin-left: 15.0px;
+  margin-top: 31px;
+  object-fit: cover;
+  width: 205px;
+}
+
+.index .info {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 200px;
+  min-width: 1442px;
+}
+
+.index .overlap-group {
+  align-items: flex-start;
+  background-color: var(--goblin);
+  display: flex;
+  height: 188px;
+  min-width: 1440px;
+  padding: 32px 77px;
+}
+
+.index .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 23px;
+  text-align: right;
+  white-space: nowrap;
+  width: 72px;
+}

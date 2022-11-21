@@ -1,0 +1,373 @@
+/* screen - grupoclase1 */
+
+.grupoclase1 {
+  align-items: flex-start;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.grupoclase1 .overlap-group4 {
+  height: 898px;
+  position: relative;
+  width: 1442px;
+}
+
+.grupoclase1 .base {
+  background-color: var(--zanah);
+  border: 1px solid;
+  border-color: transparent;
+  height: 860px;
+  left: 21px;
+  position: absolute;
+  top: 20px;
+  width: 1400px;
+}
+
+.grupoclase1 .post-thumbnail {
+  background-color: var(--de-york);
+  height: 202px;
+  left: 19px;
+  opacity: 0.7;
+  position: absolute;
+  top: 276px;
+  width: 1402px;
+}
+
+.grupoclase1 .taller-ii {
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 380px;
+  width: 642px;
+}
+
+.grupoclase1 .descripcin-de-la-clase {
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 491px;
+  width: 279px;
+}
+
+.grupoclase1 .fecha-de-creacin {
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 431px;
+  white-space: nowrap;
+}
+
+.grupoclase1 .nombre-del-docente {
+  left: 201px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 530px;
+  white-space: nowrap;
+}
+
+.grupoclase1 .archivos {
+  left: 161px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 611px;
+  width: 279px;
+}
+
+.grupoclase1 .rectngulo-1454 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  height: 170px;
+  left: 129px;
+  position: absolute;
+  top: 678px;
+  width: 343px;
+}
+
+.grupoclase1 .rectngulo-1455 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  height: 170px;
+  left: 535px;
+  position: absolute;
+  top: 678px;
+  width: 343px;
+}
+
+.grupoclase1 .rectngulo-1456 {
+  background-color: var(--norway);
+  border: 1px solid;
+  border-color: transparent;
+  height: 170px;
+  left: 943px;
+  position: absolute;
+  top: 678px;
+  width: 343px;
+}
+
+.grupoclase1 .group {
+  cursor: pointer;
+  height: 45px;
+  left: 1309px;
+  position: absolute;
+  top: 309px;
+  width: 45px;
+}
+
+.grupoclase1 .trazado-24 {
+  height: 17px;
+  left: 205px;
+  position: absolute;
+  top: 258px;
+  width: 127px;
+}
+
+.grupoclase1 .overlap-group {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 76.8px;
+  position: absolute;
+  top: 848px;
+}
+
+.grupoclase1 .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.grupoclase1 .base-1 {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 275px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.grupoclase1 .group-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  height: 76px;
+  left: 113px;
+  min-width: 254px;
+  position: absolute;
+  top: 59px;
+}
+
+.grupoclase1 .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.grupoclase1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.grupoclase1 .rectngulo-1447 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.grupoclase1 .rectangle-6 {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  height: 59px;
+  left: 1175px;
+  position: absolute;
+  top: 69px;
+  width: 182px;
+}
+
+.grupoclase1 .cerrar-sesin {
+  left: 1182px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 168px;
+}
+
+.grupoclase1 .group-2 {
+  cursor: pointer;
+  height: 45px;
+  left: 1101px;
+  position: absolute;
+  top: 76px;
+  width: 45px;
+}
+
+.grupoclase1 .group-3 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 455px;
+  min-height: 68px;
+  position: absolute;
+  top: 172px;
+  width: 86px;
+}
+
+.grupoclase1 .grupo-339 {
+  height: 40px;
+  margin-right: 1.71px;
+  width: 40px;
+}
+
+.grupoclase1 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 84px;
+}
+
+.grupoclase1 .group-4 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 687px;
+  min-height: 65px;
+  position: absolute;
+  top: 175px;
+  width: 68px;
+}
+
+.grupoclase1 .group-5 {
+  height: 38px;
+  margin-right: 2.0px;
+  width: 52px;
+}
+
+.grupoclase1 .qu-hay-de-nuevo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 66px;
+}
+
+.grupoclase1 .overlap-group1 {
+  height: 69px;
+  left: 230px;
+  position: absolute;
+  top: 171px;
+  width: 79px;
+}
+
+.grupoclase1 .group-2-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 69px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.grupoclase1 .rectngulo-1448 {
+  background-color: var(--rgb255-255-255);
+  border: 3px solid;
+  border-color: var(--de-york);
+  border-radius: 4px;
+  height: 41px;
+  margin-right: 2.0px;
+  width: 41px;
+}
+
+.grupoclase1 .qu-hay-de-nuevo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 77px;
+}
+
+.grupoclase1 .trazado-239 {
+  height: 15px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.grupoclase1 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--goblin);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  left: 746px;
+  min-width: 182px;
+  padding: 15px 7px;
+  position: absolute;
+  top: 377px;
+}
+
+.grupoclase1 .crear {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.grupoclase1 .group-8 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 59px;
+  left: 943px;
+  min-width: 184px;
+  position: absolute;
+  top: 379px;
+}
+
+.grupoclase1 .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--goblin);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  min-width: 182px;
+  padding: 15px 7px;
+}

@@ -1,0 +1,410 @@
+/* screen - configuracionperfilweb1 */
+
+.configuracionperfilweb1 {
+  align-items: center;
+  background-color: var(--rgb255-255-255);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.configuracionperfilweb1 .overlap-group8 {
+  height: 275px;
+  margin-left: 2.0px;
+  position: relative;
+  width: 1442px;
+}
+
+.configuracionperfilweb1 .trazado-240 {
+  height: 17px;
+  left: 204px;
+  position: absolute;
+  top: 258px;
+  width: 127px;
+}
+
+.configuracionperfilweb1 .base {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 275px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.configuracionperfilweb1 .group-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  height: 76px;
+  left: 115px;
+  min-width: 254px;
+  position: absolute;
+  top: 59px;
+}
+
+.configuracionperfilweb1 .asset-1-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.configuracionperfilweb1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 59px;
+  min-width: 174px;
+}
+
+.configuracionperfilweb1 .rectngulo-1447 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 46px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.configuracionperfilweb1 .trazado-241 {
+  height: 17px;
+  left: 207px;
+  position: absolute;
+  top: 258px;
+  width: 127px;
+}
+
+.configuracionperfilweb1 .rectangle-6 {
+  background-color: var(--orange-yellow);
+  border: 1px none;
+  border-radius: 3px;
+  height: 59px;
+  left: 1177px;
+  position: absolute;
+  top: 69px;
+  width: 182px;
+}
+
+.configuracionperfilweb1 .cerrar-sesin {
+  left: 1184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 168px;
+}
+
+.configuracionperfilweb1 .group {
+  height: 45px;
+  left: 1103px;
+  position: absolute;
+  top: 76px;
+  width: 45px;
+}
+
+.configuracionperfilweb1 .group-3 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 457px;
+  min-height: 68px;
+  position: absolute;
+  top: 172px;
+  width: 86px;
+}
+
+.configuracionperfilweb1 .grupo-339 {
+  height: 40px;
+  margin-right: 1.71px;
+  width: 40px;
+}
+
+.configuracionperfilweb1 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 84px;
+}
+
+.configuracionperfilweb1 .group-4 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 689px;
+  min-height: 65px;
+  position: absolute;
+  top: 175px;
+  width: 68px;
+}
+
+.configuracionperfilweb1 .group-2 {
+  height: 38px;
+  margin-right: 2.0px;
+  width: 52px;
+}
+
+.configuracionperfilweb1 .qu-hay-de-nuevo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 66px;
+}
+
+.configuracionperfilweb1 .group-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 69px;
+  left: 232px;
+  min-width: 77px;
+  position: absolute;
+  top: 171px;
+}
+
+.configuracionperfilweb1 .overlap-group6 {
+  height: 69px;
+  position: relative;
+  width: 79px;
+}
+
+.configuracionperfilweb1 .group-2-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 69px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.configuracionperfilweb1 .rectngulo-1448 {
+  background-color: var(--de-york);
+  border: 3px solid;
+  border-radius: 4px;
+  height: 41px;
+  margin-right: 2.0px;
+  width: 41px;
+}
+
+.configuracionperfilweb1 .qu-hay-de-nuevo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 17px;
+  min-width: 77px;
+}
+
+.configuracionperfilweb1 .trazado-239 {
+  height: 15px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.configuracionperfilweb1 .overlap-group7 {
+  height: 365px;
+  margin-right: 2.0px;
+  margin-top: 1px;
+  position: relative;
+  width: 1402px;
+}
+
+.configuracionperfilweb1 .post-thumbnail {
+  background-color: var(--de-york);
+  height: 202px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 1402px;
+}
+
+.configuracionperfilweb1 .hero {
+  align-items: flex-start;
+  background-color: var(--zanah);
+  display: flex;
+  flex-direction: column;
+  left: 131px;
+  min-height: 106px;
+  padding: 28px 32px;
+  position: absolute;
+  top: 49px;
+  width: 351px;
+}
+
+.configuracionperfilweb1 .name {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 2px;
+  white-space: nowrap;
+}
+
+.configuracionperfilweb1 .docente {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.configuracionperfilweb1 .input {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  height: 182px;
+  left: 115px;
+  min-width: 658px;
+  position: absolute;
+  top: 183px;
+}
+
+.configuracionperfilweb1 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 182px;
+  width: 327px;
+}
+
+.configuracionperfilweb1 .overlap-group {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.6px;
+}
+
+.configuracionperfilweb1 .nombre {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 38px;
+  text-align: right;
+}
+
+.configuracionperfilweb1 .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 12.2px;
+}
+
+.configuracionperfilweb1 .descripcin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: right;
+}
+
+.configuracionperfilweb1 .overlap-group4 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 12.7px;
+}
+
+.configuracionperfilweb1 .contrasea {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 55px;
+  text-align: right;
+}
+
+.configuracionperfilweb1 .apellido {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 38px;
+  text-align: right;
+}
+
+.configuracionperfilweb1 .correo {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 33px;
+  text-align: right;
+}
+
+.configuracionperfilweb1 .overlap-group5 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 9.2px;
+}
+
+.configuracionperfilweb1 .confirmar-contrasea {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 103px;
+  text-align: right;
+}
+
+.configuracionperfilweb1 .trazado-12 {
+  cursor: pointer;
+  height: 31px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 31px;
+}
+
+.configuracionperfilweb1 .info {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 207px;
+  min-width: 1442px;
+}
+
+.configuracionperfilweb1 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  height: 50px;
+  min-width: 1440px;
+  padding: 0 76.8px;
+}
+
+.configuracionperfilweb1 .copyright {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 72px;
+  text-align: right;
+  white-space: nowrap;
+}
